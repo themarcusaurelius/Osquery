@@ -31,7 +31,7 @@ curl https://github.com/themarcusaurelius/vizion.ai/blob/master/beat-install-scr
 
 **Data should now be shipping to your Vizion Elastic app. Check the ```Discover``` tab in Kibana for the incoming logs**
 
-<b>
+<br>
 
 <i>If you have already installed filebeat...</i>
 
